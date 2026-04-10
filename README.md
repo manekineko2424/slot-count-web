@@ -7,6 +7,7 @@
 | トップ | https://manekineko2424.github.io/slot-count-web/ |
 | サポート | https://manekineko2424.github.io/slot-count-web/support/ |
 | プライバシーポリシー | https://manekineko2424.github.io/slot-count-web/privacy/ |
+| 更新設定JSON | https://manekineko2424.github.io/slot-count-web/version.json |
 
 ## App Store Connect 入力用
 
@@ -18,6 +19,7 @@
 ```
 web/
 ├── index.html        # トップ（LP予定）
+├── version.json      # 推奨 / 必須アップデート設定
 ├── style.css         # 共通スタイル
 ├── support/
 │   └── index.html   # サポートページ
