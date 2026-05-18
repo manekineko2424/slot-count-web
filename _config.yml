@@ -68,7 +68,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#1a1a1a"
 cover_overlay_transparency                : 0.75
 
-device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : iphone17pro                               # Set to: blue, black, yellow, coral, white, or iphone17pro.
 
 body_background_color                     : "#ffffff"
 
